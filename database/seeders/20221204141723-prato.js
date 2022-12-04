@@ -6,7 +6,7 @@ module.exports = {
                 {
                     ds_prato: 'Descrição teste 01',
                     nome: 'Macarronada ao molho sugo abolonhesado',
-                    imagem: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fclaudia.abril.com.br%2Fgastronomia%2F30-receitas-macarrao%2F&psig=AOvVaw0G1k9EbX-yKK6ofLLvJ-Ya&ust=1670277284041000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCb3vP54PsCFQAAAAAdAAAAABAW',
+                    imagem: 'https://claudia.abril.com.br/wp-content/uploads/2016/09/receita-macarrao-aromatico.jpg',
                     has3d: true,
                     valor: 10.1,
                     valor_nutricional: 20.2,
@@ -16,7 +16,7 @@ module.exports = {
                 {
                     ds_prato: 'Descrição teste 02',
                     nome: 'Famosa panqueca da utf (lendária)',
-                    imagem: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.rbth.com%2Freceitas%2F85091-blini-com-carne-picadinha-receita&psig=AOvVaw1K3lhOo2X1DlXuYWL_c29x&ust=1670277360400000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCND0r5j64PsCFQAAAAAdAAAAABAD',
+                    imagem: 'https://mf.b37mrtl.ru/rbthmedia/images/2021.02/original/6031bc6015e9f90a392b1ee6.jpg',
                     has3d: true,
                     valor: 11.11,
                     valor_nutricional: 22.22,
