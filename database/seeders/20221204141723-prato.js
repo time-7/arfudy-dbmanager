@@ -5,7 +5,7 @@ module.exports = {
             [
                 {
                     ds_prato: 'Descrição teste 01',
-                    nome: 'Nome teste 01',
+                    nome: 'Macarronada ao molho sugo abolonhesado',
                     imagem: 'Imagem teste 01',
                     has3d: true,
                     valor: 10.1,
@@ -15,7 +15,7 @@ module.exports = {
                 },
                 {
                     ds_prato: 'Descrição teste 02',
-                    nome: 'Nome teste 02',
+                    nome: 'Famosa panqueca da utf (lendária)',
                     imagem: 'Imagem teste 02',
                     has3d: true,
                     valor: 11.11,
