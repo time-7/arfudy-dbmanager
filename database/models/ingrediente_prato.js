@@ -5,7 +5,14 @@ module.exports = (sequelize, DataTypes) => {
             id_prato: DataTypes.INTEGER,
             id_ingrediente: DataTypes.INTEGER,
         },
-        {}
+        {
+            indexes:[
+                {
+                    unique: true,
+                    fields: ['id_prato', 'id_ingrediente']
+                }
+            ]
+        }
     )
     ingrediente_prato.associate = function (models) {
         ingrediente_prato.belongsTo(models.prato, {
