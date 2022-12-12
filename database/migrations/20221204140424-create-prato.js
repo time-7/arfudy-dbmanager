@@ -8,13 +8,13 @@ module.exports = {
                 type: Sequelize.INTEGER,
             },
             ds_prato: {
-                type: Sequelize.STRING,
+                type: Sequelize.STRING(510),
             },
             nome: {
                 type: Sequelize.STRING,
             },
             imagem: {
-                type: Sequelize.STRING,
+                type: Sequelize.STRING(510),
             },
             has3d: {
                 type: Sequelize.BOOLEAN,
